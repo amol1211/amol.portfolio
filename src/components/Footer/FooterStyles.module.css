@@ -1,0 +1,12 @@
+.container {
+  padding-top: 32px;
+  text-align: center;
+  p {
+    font-size: 16px;
+    color: var(--footer-text-color);
+  }
+
+  .emoji::before {
+    content: var(--love-emoji);
+  }
+}
