@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience in web development. The site is built using React and Vite, offering a fast and modern web experience.
 
-## [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)]()
+## [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://amol-portfolio.onrender.com)
 
 ## Screenshots 📸
 
