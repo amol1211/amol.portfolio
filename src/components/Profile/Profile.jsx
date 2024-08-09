@@ -14,7 +14,7 @@ import gfgLight from "../../assets/geeksforgeeks-light.png";
 import gfgDark from "../../assets/geeksforgeeks-dark.png";
 import xLight from "../../assets/x-light.svg";
 import xDark from "../../assets/x-dark.svg";
-import CV from "../../assets/cv.pdf";
+import CV from "../../assets/Amol_CV_Updated.pdf";
 import { useTheme } from "../../common/ThemeContext";
 
 function Profile() {
