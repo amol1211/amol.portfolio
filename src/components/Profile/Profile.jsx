@@ -62,7 +62,7 @@ function Profile() {
               ></ReactTyped>
             </h2>
             <span>
-              <a href="www.linkedin.com/in/amol1211" target="_blank">
+              <a href="https://www.linkedin.com/in/amol1211/" target="_blank">
                 <img src={linkedinIcon} alt="LinkedIn icon" />
               </a>
               <a

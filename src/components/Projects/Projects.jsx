@@ -15,7 +15,7 @@ const mainProjects = [
     github: "https://github.com/amol1211/AuthVault",
     liveDemo: "https://authvault.onrender.com",
     description:
-      "AuthVault is an authorization web application built with the MERN stack.",
+      "AuthVault is an authorization application built with the MERN stack.",
   },
   {
     title: "LinkLite",
@@ -23,7 +23,7 @@ const mainProjects = [
     github: "https://github.com/amol1211/LinkLite",
     liveDemo: "https://linklite-5kh2.onrender.com",
     description:
-      "LinkLite is a URL shortener web application built with the MERN stack.",
+      "LinkLite is a URL shortener application built with the MERN stack.",
   },
   {
     title: "Chrome Dictionary",
