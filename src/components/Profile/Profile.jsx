@@ -86,7 +86,7 @@ function Profile() {
               >
                 <img src={gfgIcon} alt="GeeksForGeeks icon" />
               </a>
-              <a href="https://x.com/Amol_JS" target="_blank">
+              <a href="https://x.com/amol_twits" target="_blank">
                 <img src={xIcon} alt="X icon" />
               </a>
             </span>
