@@ -74,7 +74,7 @@ function Profile() {
               </a>
               <a
                 className={styles.leetcodeIcon}
-                href="https://leetcode.com/u/amol1211"
+                href="https://leetcode.com/amol1211"
                 target="_blank"
               >
                 <img src={leetcodeIcon} alt="Leetcode icon" />
